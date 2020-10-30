@@ -1,32 +1,32 @@
 ## Values sent over MQTT
 
-solpiplog//batrium/volt
-solpiplog/batrium/ampere
-solpiplog/batrium/soc
-solpiplog/batrium/status
-solpiplog/batrium/cell1minv
-solpiplog/batrium/cell1maxv
-solpiplog/batrium/cell2minv
-solpiplog/batrium/cell2maxv
-solpiplog/batrium/cell3minv
-solpiplog/batrium/cell3maxv
-solpiplog/batrium/cell4minv
-solpiplog/batrium/cell4maxv
-solpiplog/batrium/cell5minv
-solpiplog/batrium/cell5maxv
-solpiplog/batrium/cell6minv
-solpiplog/batrium/cell6maxv
-solpiplog/batrium/cell7minv
-solpiplog/batrium/cell7maxv
-solpiplog/batrium/cell8minv
-solpiplog/batrium/cell8maxv
-solpiplog/batrium/chargeva
-solpiplog/batrium/dischargeva
-solpiplog/batrium/relais1
-solpiplog/batrium/relais2
-solpiplog/batrium/relais3
-solpiplog/batrium/relais4
-solpiplog/batrium/output5
-solpiplog/batrium/output6
-solpiplog/batrium/output7
-solpiplog/batrium/output8
+- solpiplog//batrium/volt
+- solpiplog/batrium/ampere
+- solpiplog/batrium/soc
+- solpiplog/batrium/status
+- solpiplog/batrium/cell1minv
+- solpiplog/batrium/cell1maxv
+- solpiplog/batrium/cell2minv
+- solpiplog/batrium/cell2maxv
+- solpiplog/batrium/cell3minv
+- solpiplog/batrium/cell3maxv
+- solpiplog/batrium/cell4minv
+- solpiplog/batrium/cell4maxv
+- solpiplog/batrium/cell5minv
+- solpiplog/batrium/cell5maxv
+- solpiplog/batrium/cell6minv
+- solpiplog/batrium/cell6maxv
+- solpiplog/batrium/cell7minv
+- solpiplog/batrium/cell7maxv
+- solpiplog/batrium/cell8minv
+- solpiplog/batrium/cell8maxv
+- solpiplog/batrium/chargeva
+- solpiplog/batrium/dischargeva
+- solpiplog/batrium/relais1
+- solpiplog/batrium/relais2
+- solpiplog/batrium/relais3
+- solpiplog/batrium/relais4
+- solpiplog/batrium/output5
+- solpiplog/batrium/output6
+- solpiplog/batrium/output7
+- solpiplog/batrium/output8
