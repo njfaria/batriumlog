@@ -34,5 +34,4 @@
 - solpiplog/batrium/maxcellv
 - solpiplog/batrium/dailywhcharge
 - solpiplog/batrium/dailywhdischarge
-
-
+- solpiplog/batrium/criticalbatt
