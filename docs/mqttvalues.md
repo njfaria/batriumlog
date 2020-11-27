@@ -30,3 +30,9 @@
 - solpiplog/batrium/output6
 - solpiplog/batrium/output7
 - solpiplog/batrium/output8
+- solpiplog/batrium/mincellv
+- solpiplog/batrium/maxcellv
+- solpiplog/batrium/dailywhcharge
+- solpiplog/batrium/dailywhdischarge
+
+
